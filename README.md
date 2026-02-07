@@ -131,7 +131,6 @@ El portfolio está optimizado para:
 ## 📞 Contacto
 
 - **Email**: omargerman07@gmail.com
-- **Teléfono**: (829) 334-6030
 - **LinkedIn**: [linkedin.com/in/ramonogerman](https://www.linkedin.com/in/ramonogerman)
 - **Ubicación**: Santo Domingo, República Dominicana
 
