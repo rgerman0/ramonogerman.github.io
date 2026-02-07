@@ -5,26 +5,35 @@ Portfolio profesional de Ramón O. German - Especialista en Soporte TI
 ## 🚀 Características
 
 - ✨ Diseño moderno y responsive
-- 🎨 Animaciones suaves y profesionales
+- 🌙 **Modo oscuro** con almacenamiento persistente
+- 🎨 **Animaciones avanzadas** con AOS (Animate On Scroll)
 - 📱 Optimizado para dispositivos móviles
+- 📝 **Formulario de contacto funcional** con validación
+- 📰 **Sección de blog** con artículos destacados
 - 🌐 Compatible con GitHub Pages
 - ⚡ Carga rápida y optimizada
+- ♿ Accesible y semántico
+- 🔝 Botón de scroll hacia arriba
+- ⌨️ Efecto de escritura en el título
 
 ## 📋 Secciones
 
-- **Inicio**: Presentación y llamada a la acción
+- **Inicio**: Presentación con efecto de escritura y llamada a la acción
 - **Sobre Mí**: Información personal y profesional
-- **Experiencia**: Historial laboral detallado
-- **Habilidades**: Competencias técnicas y blandas
+- **Experiencia**: Historial laboral detallado con timeline animado
+- **Habilidades**: Competencias técnicas y blandas con categorías
+- **Blog**: Artículos y experiencias en tecnología (6 posts destacados)
 - **Educación**: Formación académica y certificaciones
-- **Contacto**: Información de contacto y redes sociales
+- **Contacto**: Formulario funcional y datos de contacto
 
 ## 🛠️ Tecnologías Utilizadas
 
-- HTML5
-- CSS3 (con CSS Variables)
-- JavaScript (Vanilla)
+- HTML5 (Semántico)
+- CSS3 (con CSS Variables y Grid/Flexbox)
+- JavaScript ES6+ (Vanilla)
 - Font Awesome Icons
+- AOS (Animate On Scroll Library)
+- LocalStorage para preferencias de tema
 
 ## 📦 Estructura del Proyecto
 
@@ -120,17 +129,60 @@ El portfolio está optimizado para:
 - 💻 Laptops (769px - 1024px)
 - 🖥️ Desktop (1025px+)
 
+## ✨ Características Destacadas
+
+### Modo Oscuro 🌙
+- Toggle persistente con LocalStorage
+- Transiciones suaves entre temas
+- Iconos dinámicos (luna/sol)
+- Paleta de colores optimizada para ambos modos
+
+### Animaciones Avanzadas 🎨
+- AOS (Animate On Scroll) integrado
+- Efectos de entrada por sección
+- Hover effects en tarjetas
+- Parallax en hero section
+- Efecto de escritura en subtítulo
+- Transiciones CSS suavizadas
+
+### Formulario de Contacto 📧
+- Validación en tiempo real
+- Mensajes de error personalizados
+- Estados de carga visual
+- Integración con mailto como fallback
+- Preparado para backend (EmailJS, FormSpree)
+
+### Blog Profesional 📰
+- 6 artículos destacados
+- Imágenes de alta calidad
+- Categorías por color
+- Metadata (fecha y tiempo de lectura)
+- Diseño tipo tarjeta con hover effects
+- Grid responsive
+
+## 📱 Responsive Design
+
+El portfolio está optimizado para:
+- 📱 Móviles (320px - 480px)
+- 📱 Tablets (481px - 768px)
+- 💻 Laptops (769px - 1024px)
+- 🖥️ Desktop (1025px+)
+
 ## 🔧 Próximas Mejoras
 
-- [ ] Agregar modo oscuro
-- [ ] Implementar formulario de contacto funcional
-- [ ] Agregar blog o sección de artículos
-- [ ] Integrar animaciones más avanzadas
+- [ ] Integrar servicio de email backend (EmailJS, FormSpree, etc.)
+- [ ] Agregar página de detalles para cada artículo del blog
+- [ ] Implementar sistema de comentarios en el blog
+- [ ] Agregar sección de proyectos con filtros
+- [ ] Integrar Google Analytics
 - [ ] Agregar sección de testimonios
+- [ ] Implementar PWA (Progressive Web App)
+- [ ] Agregar más idiomas (i18n)
 
 ## 📞 Contacto
 
 - **Email**: omargerman07@gmail.com
+- **Teléfono**: (829) 334-6030
 - **LinkedIn**: [linkedin.com/in/ramonogerman](https://www.linkedin.com/in/ramonogerman)
 - **Ubicación**: Santo Domingo, República Dominicana
 
